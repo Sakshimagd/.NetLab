@@ -1,0 +1,15 @@
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\bin\Debug\net10.0\Deligates.exe
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\bin\Debug\net10.0\Deligates.deps.json
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\bin\Debug\net10.0\Deligates.runtimeconfig.json
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\bin\Debug\net10.0\Deligates.dll
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\bin\Debug\net10.0\Deligates.pdb
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\obj\Debug\net10.0\Deligates.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\obj\Debug\net10.0\Deligates.AssemblyInfoInputs.cache
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\obj\Debug\net10.0\Deligates.AssemblyInfo.cs
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\obj\Debug\net10.0\Deligates.csproj.CoreCompileInputs.cache
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\obj\Debug\net10.0\Deligates.sourcelink.json
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\obj\Debug\net10.0\Deligates.dll
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\obj\Debug\net10.0\refint\Deligates.dll
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\obj\Debug\net10.0\Deligates.pdb
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\obj\Debug\net10.0\Deligates.genruntimeconfig.cache
+D:\.Net\.NetLab\Lab\Experiment4\Deligates\Deligates\obj\Debug\net10.0\ref\Deligates.dll
